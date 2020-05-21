@@ -10,9 +10,9 @@
 </script>
 
 <main>
-	<h1>Hello {name = 'everybody'}!</h1>
+	<h1>Salut {name = 'Tout le monde'}!</h1>
 	<img style="width: 100px;" src='{src}' alt='my img'>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<p>Consultez le  <a href="https://svelte.dev/tutorial">tuto Svelte</a> pour apprendre à créer des applications Svelte.</p>
 	<Divider/>
 	<Text/>
 	<Divider/>

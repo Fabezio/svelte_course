@@ -1,5 +1,6 @@
 <script>
-let text = '<code>This is a nested html code</code>'
+let text = '<code style="font-family: monospace; letter-spacing: 2.5px">Voici du code html imbriqué</code>'
 </script>
-<p>This is a component</p>
-<p>{@html text}</p>
+<p>Ceci est mon premier composant</p>
+<h3 >{@html text}</h3>
+<q><i>Et une citation</i></q>
