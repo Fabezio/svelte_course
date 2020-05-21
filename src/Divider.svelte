@@ -1,0 +1,1 @@
+<hr style="width: 50%; margin: 1em auto; height: 5px; border-radius: 3px; background: #ABC">
